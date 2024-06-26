@@ -1,0 +1,6 @@
+flask
+flask-cors
+cmake
+dlib
+CMake
+face_recognition
